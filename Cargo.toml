@@ -1,0 +1,8 @@
+[workspace]
+members = ["collection_practice", "enum_practice", "error_practice","hello", "mandelbrot", "module_practice", "option_t", "ownership", "ownership_slice", "rectangles", "struct_enum_pub", "struct_practice", "use_practice"]
+[package]
+name = "rustpractice"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
